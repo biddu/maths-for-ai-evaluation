@@ -1,0 +1,236 @@
+{
+  "n": 164,
+  "correct_A": 117,
+  "correct_B": 115,
+  "p_A": 0.7134146341463414,
+  "p_B": 0.7012195121951219,
+  "gap_points": 1.2195121951219523,
+  "se_A": 0.03530824144899643,
+  "se_B": 0.03574219238569907,
+  "se_A_points": 3.530824144899643,
+  "ci_A_lo": 0.6442117525488641,
+  "ci_A_hi": 0.7826175157438188,
+  "ci_B_lo": 0.63116610239065,
+  "ci_B_hi": 0.7712729219995939,
+  "n_for_se_2pt": 512,
+  "n_for_se_1pt": 2045,
+  "n_for_se_0.5pt": 8179,
+  "se_p_half_n164_points": 3.904344047215152,
+  "var_bernoulli_at_pA": 0.20445419393218323,
+  "fpc_N1000": 0.9147878643908853,
+  "fpc_N10000": 0.9918156934819007,
+  "fpc_N1000000": 0.9999184965970975,
+  "resolution_table": [
+    {
+      "benchmark": "HumanEval",
+      "n": 164,
+      "p": 0.5,
+      "se_points": 3.904344047215152
+    },
+    {
+      "benchmark": "HumanEval",
+      "n": 164,
+      "p": 0.7,
+      "se_points": 3.5783904271027343
+    },
+    {
+      "benchmark": "HumanEval",
+      "n": 164,
+      "p": 0.9,
+      "se_points": 2.342606428329091
+    },
+    {
+      "benchmark": "GPQA Diamond",
+      "n": 198,
+      "p": 0.5,
+      "se_points": 3.5533452725935075
+    },
+    {
+      "benchmark": "GPQA Diamond",
+      "n": 198,
+      "p": 0.7,
+      "se_points": 3.2566947363946483
+    },
+    {
+      "benchmark": "GPQA Diamond",
+      "n": 198,
+      "p": 0.9,
+      "se_points": 2.132007163556104
+    },
+    {
+      "benchmark": "MBPP (test)",
+      "n": 500,
+      "p": 0.5,
+      "se_points": 2.23606797749979
+    },
+    {
+      "benchmark": "MBPP (test)",
+      "n": 500,
+      "p": 0.7,
+      "se_points": 2.04939015319192
+    },
+    {
+      "benchmark": "MBPP (test)",
+      "n": 500,
+      "p": 0.9,
+      "se_points": 1.3416407864998736
+    },
+    {
+      "benchmark": "SWE-bench Verified",
+      "n": 500,
+      "p": 0.5,
+      "se_points": 2.23606797749979
+    },
+    {
+      "benchmark": "SWE-bench Verified",
+      "n": 500,
+      "p": 0.7,
+      "se_points": 2.04939015319192
+    },
+    {
+      "benchmark": "SWE-bench Verified",
+      "n": 500,
+      "p": 0.9,
+      "se_points": 1.3416407864998736
+    },
+    {
+      "benchmark": "IFEval",
+      "n": 541,
+      "p": 0.5,
+      "se_points": 2.149667901961739
+    },
+    {
+      "benchmark": "IFEval",
+      "n": 541,
+      "p": 0.7,
+      "se_points": 1.9702031759513154
+    },
+    {
+      "benchmark": "IFEval",
+      "n": 541,
+      "p": 0.9,
+      "se_points": 1.2898007411770431
+    },
+    {
+      "benchmark": "ARC-Challenge (test)",
+      "n": 1172,
+      "p": 0.5,
+      "se_points": 1.4605155945924648
+    },
+    {
+      "benchmark": "ARC-Challenge (test)",
+      "n": 1172,
+      "p": 0.7,
+      "se_points": 1.3385846531766816
+    },
+    {
+      "benchmark": "ARC-Challenge (test)",
+      "n": 1172,
+      "p": 0.9,
+      "se_points": 0.8763093567554789
+    },
+    {
+      "benchmark": "GSM8K (test)",
+      "n": 1319,
+      "p": 0.5,
+      "se_points": 1.3767262924438874
+    },
+    {
+      "benchmark": "GSM8K (test)",
+      "n": 1319,
+      "p": 0.7,
+      "se_points": 1.261790489272005
+    },
+    {
+      "benchmark": "GSM8K (test)",
+      "n": 1319,
+      "p": 0.9,
+      "se_points": 0.8260357754663324
+    },
+    {
+      "benchmark": "MATH (test)",
+      "n": 5000,
+      "p": 0.5,
+      "se_points": 0.7071067811865476
+    },
+    {
+      "benchmark": "MATH (test)",
+      "n": 5000,
+      "p": 0.7,
+      "se_points": 0.6480740698407861
+    },
+    {
+      "benchmark": "MATH (test)",
+      "n": 5000,
+      "p": 0.9,
+      "se_points": 0.4242640687119285
+    },
+    {
+      "benchmark": "BBH",
+      "n": 6511,
+      "p": 0.5,
+      "se_points": 0.6196495757139976
+    },
+    {
+      "benchmark": "BBH",
+      "n": 6511,
+      "p": 0.7,
+      "se_points": 0.5679182170113328
+    },
+    {
+      "benchmark": "BBH",
+      "n": 6511,
+      "p": 0.9,
+      "se_points": 0.37178974542839854
+    },
+    {
+      "benchmark": "HellaSwag (val)",
+      "n": 10042,
+      "p": 0.5,
+      "se_points": 0.49895329596613247
+    },
+    {
+      "benchmark": "HellaSwag (val)",
+      "n": 10042,
+      "p": 0.7,
+      "se_points": 0.45729824940250136
+    },
+    {
+      "benchmark": "HellaSwag (val)",
+      "n": 10042,
+      "p": 0.9,
+      "se_points": 0.2993719775796795
+    },
+    {
+      "benchmark": "MMLU (test)",
+      "n": 14042,
+      "p": 0.5,
+      "se_points": 0.4219446843148565
+    },
+    {
+      "benchmark": "MMLU (test)",
+      "n": 14042,
+      "p": 0.7,
+      "se_points": 0.38671869099141515
+    },
+    {
+      "benchmark": "MMLU (test)",
+      "n": 14042,
+      "p": 0.9,
+      "se_points": 0.2531668105889139
+    }
+  ],
+  "se_mmlu_pA_points": 0.3815781757895005,
+  "sd_diff_indep_points": 4.993339392071461,
+  "p_gap_gt_1pt_analytic": 0.8412719421851012,
+  "p_gap_gt_gap_analytic": 0.8070544129514894,
+  "sim_reps": 200000,
+  "p_gap_gt_1pt_sim": 0.854725,
+  "p_gap_ge_observed_sim": 0.854725,
+  "gap_items": 2,
+  "correct_A_run2": 118,
+  "p_A_run2": 0.7195121951219512,
+  "A_run_scores_min": 0.6646341463414634,
+  "A_run_scores_max": 0.7682926829268293,
+  "A_run_scores_sd_points": 3.099071730883614
+}
