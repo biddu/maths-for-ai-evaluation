@@ -1,0 +1,10 @@
+# Versions used to produce the printed edition. Newer versions should work;
+# these are the ones the numbers were checked against.
+numpy>=2.0
+scipy>=1.14
+pandas>=2.2
+statsmodels>=0.14
+matplotlib>=3.9
+scikit-learn>=1.5
+krippendorff>=0.8
+pingouin>=0.5
