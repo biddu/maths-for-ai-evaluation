@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the book."
+type: software
+title: "Maths for AI Evaluation: companion code"
+authors:
+  - family-names: Nag
+    given-names: Avishek
+    affiliation: University College Dublin
+year: 2027
+license: MIT
+preferred-citation:
+  type: book
+  title: "Maths for AI Evaluation: Confidence Intervals, Judges, and Leaderboards"
+  authors:
+    - family-names: Nag
+      given-names: Avishek
+  year: 2027
+  collection-title: "Mathematics for Everything, Book 5"
